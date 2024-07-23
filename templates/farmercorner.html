@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <title>Farmercorner | AgroPlus</title>
+    <!-- <link rel="stylesheet" href="../static/buystyle.css"> -->
+    <link rel="stylesheet" href="{% static 'sellstyle.css' %}">
+</head>
+
+<body>
+    <nav>
+        <div class="namelogo">
+            <img class="image" src="../static/logo1.PNG">
+            <div class="namebox">
+                <span class="nav-name">Agroplus</span>
+            </div>
+        </div>
+        <div class="list">
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a href="../"><i class="fas fa-home"></i>&nbsp; Home&nbsp;&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./farmercorner"><i class="fa fa-info-circle" aria-hidden="true"></i>&nbsp; Farmer's Corner&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./Buy"><i class="fa fa-shopping-cart" ></i>&nbsp; Buy&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./Sell"><i class="fa fa-inr" aria-hidden="true"></i>&nbsp; Sell&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./Croprate"><i class="fa fa-bar-chart" aria-hidden="true"></i>&nbsp; Crop Rates&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./logout"> LOGOUT &nbsp; <i class="fas fa-sign-out-alt"></i></a>
+                </li>
+                <li class="google" style="color:#0b8507">
+                    <div id="google_element"></div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- GOOGLE API -->
+    <script src="https://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
+
+    <script>
+        function loadGoogleTranslate() {
+            new google.translate.TranslateElement({
+                pageLanguage: "en",
+                includedLanguages: "mr,hi,en",
+            }, "google_element");
+        }
+    </script>
+    <!-- GOOGLE API ENDS-->
+    <!-- <div class="carousel">
+        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active" style="padding-left: 30%;">
+                    <img src="../static/Carousal/1.jpeg" class="d-block w-50 h-50" style="display: flex;justify-content:center;align-items:center;" alt="...">
+                </div>
+                <div class="carousel-item" style="padding-left: 30%;">
+                    <img src="../static\Carousal\2.jpeg" class="d-block w-50 h-50" alt="...">
+                </div>
+                <div class="carousel-item" style="padding-left: 30%;">
+                    <img src="../static/Carousal/4.jpeg" class="d-block w-50 h-50" alt="...">
+                </div>
+            </div> -->
+    <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev" style="background-color: transparent">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next" style="background-color: transparent">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button> -->
+    </div>
+    </div>
+    <div class="eachblog">
+        <section class="text-gray-600 body-font">
+            <div class="container px-5 py-24 mx-auto">
+                <div class="flex flex-wrap -m-4">
+                    <div class="p-4 md:w-1/3">
+                        <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="../static/blog/1.PNG" alt="blog">
+                            <div class="p-6">
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">7 Tips To Get The Best Wheat Produce</h1>
+                                <p class="leading-relaxed mb-3">Wheat is one of the most important food crops in the world and wheat farming requires proper planning to produce a high yield. Most farmers prefer growing wheat in winter when the average temperature is between 18-24 degree
+                                    Celsius. However, farmers who reside in extremely cold climates prefer the spring season as it allows enough sunlight for the wheat crop to flourish.
+                                </p>
+                                <div class="flex items-center flex-wrap ">
+                                    <a href="https://mahadhan.co.in/7-tips-get-best-wheat-produce/" class="text-green-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
+                          <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M5 12h14"></path>
+                            <path d="M12 5l7 7-7 7"></path>
+                          </svg>
+                        </a>
+                                    <span class="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+                          <svg class="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                          </svg>1.2K
+                        </span>
+                                    <span class="text-gray-400 inline-flex items-center leading-none text-sm">
+                          <svg class="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                            <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
+                          </svg>6
+                        </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-4 md:w-1/3">
+                        <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="../static/blog/2.png" alt="blog">
+                            <div class="p-6">
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">How A Farmer From Nashik Grew 195 Quintal Onion</h1>
+                                <p class="leading-relaxed mb-3">Modern farming methods have often proven effective and have delivered outstanding results. A farmer from Nashik, stands testimony to the wonders modern farming techniques can do. Here’s how Mr. Balu Darade grew a whopping
+                                    195 quintal onion – NABARD’s golden initiative The National Bank for Agriculture and Rural Development (NABARD) initiated a noble program where it trained the farmers for modern farming techniques.
+                                </p>
+                                <div class="flex items-center flex-wrap">
+                                    <a href="https://mahadhan.co.in/farmer-nashik-grew-195-quintal-onion/" class="text-green-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
+                          <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M5 12h14"></path>
+                            <path d="M12 5l7 7-7 7"></path>
+                          </svg>
+                        </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-4 md:w-1/3">
+                        <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="../static/blog/3.png" alt="blog">
+                            <div class="p-6">
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Potato – Diseases And Symptoms</h1>
+                                <p class="leading-relaxed mb-3">Potatoes are one of the most common and important food sources on the planet. While there are several benefits of growing potatoes, it’s important to know that there are many diseases that the tubers catch. So, if you are
+                                    growing potatoes this season, here are the types of potato diseases, potato disease control, and their management you should know: ● Late blight: Late blight damages leaves, stems and tubers (potatoes). Affected leaves
+                                    appear blistered as if scalded by hot water and eventually rot and dry out. To treat late blight, plant resistant cultivators are used. You should also use soaker hoses to give plants time to dry out during the day
+                                    as the disease develops in humid conditions.
+                                </p>
+                                <div class="flex items-center flex-wrap ">
+                                    <a href="https://mahadhan.co.in/potato-diseases-symptoms/" class="text-green-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
+                          <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M5 12h14"></path>
+                            <path d="M12 5l7 7-7 7"></path>
+                          </svg>
+                        </a>
+                                    <span class="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+                          <svg class="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                            <circle cx="12" cy="12" r="3"></circle>
+                          </svg>2.2K
+                        </span>
+                                    <span class="text-gray-400 inline-flex items-center leading-none text-sm">
+                          <svg class="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                            <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
+                          </svg>6
+                        </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>

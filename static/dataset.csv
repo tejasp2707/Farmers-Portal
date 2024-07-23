@@ -1,0 +1,771 @@
+State,District,Market,Commodity,Variety,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Maharashtra,Ahmednagar,Kopargaon,Bengal Gram(Gram)(Whole),Other,17-06-2022,175.05,212,10.25
+Maharashtra,Ahmednagar,Kopargaon,Jowar(Sorghum),Other,17-06-2022,75,100,4.2925
+Maharashtra,Ahmednagar,Kopargaon,Maize,Other,17-06-2022,105,116,5.7475
+Maharashtra,Ahmednagar,Kopargaon,Onion,Other,17-06-2022,25,67.55,2.3125
+Maharashtra,Ahmednagar,Kopargaon,Soyabean,Other,17-06-2022,284,331.05,16.1275
+Maharashtra,Ahmednagar,Kopargaon,Wheat,Other,17-06-2022,75,114.55,5.2775
+Maharashtra,Ahmednagar,Rahata,Beans,Other,17-06-2022,400,400,20
+Maharashtra,Ahmednagar,Rahata,Bhindi(Ladies Finger),Other,17-06-2022,150,200,8.75
+Maharashtra,Ahmednagar,Rahata,Bitter gourd,Other,17-06-2022,100,125,5.5
+Maharashtra,Ahmednagar,Rahata,Bottle gourd,Other,17-06-2022,40,75,2.75
+Maharashtra,Ahmednagar,Rahata,Brinjal,Other,17-06-2022,50,100,3.75
+Maharashtra,Ahmednagar,Rahata,Cabbage,Other,17-06-2022,40,75,2.75
+Maharashtra,Ahmednagar,Rahata,Carrot,Other,17-06-2022,125,150,6.75
+Maharashtra,Ahmednagar,Rahata,Cauliflower,Other,17-06-2022,75,125,5
+Maharashtra,Ahmednagar,Rahata,Chilly Capsicum,Other,17-06-2022,150,250,10
+Maharashtra,Ahmednagar,Rahata,Coriander(Leaves),Other,17-06-2022,0.5,1.1,0.04
+Maharashtra,Ahmednagar,Rahata,Cucumbar(Kheera),Other,17-06-2022,50,65,2.875
+Maharashtra,Ahmednagar,Rahata,Drumstick,Other,17-06-2022,200,275,11.75
+Maharashtra,Ahmednagar,Rahata,Garlic,Other,17-06-2022,75,150,5.5
+Maharashtra,Ahmednagar,Rahata,Ginger(Green),Other,17-06-2022,50,100,3.75
+Maharashtra,Ahmednagar,Rahata,Green Chilli,Other,17-06-2022,200,250,11.25
+Maharashtra,Ahmednagar,Rahata,Guar,Other,17-06-2022,150,250,10
+Maharashtra,Ahmednagar,Rahata,Lime,Other,17-06-2022,150,175,8
+Maharashtra,Ahmednagar,Rahata,Methi(Leaves),Other,17-06-2022,0.75,1,0.0425
+Maharashtra,Ahmednagar,Rahata,Pomegranate,Other,17-06-2022,50,850,11.25
+Maharashtra,Ahmednagar,Rahata,Potato,Other,17-06-2022,100,115,5.375
+Maharashtra,Ahmednagar,Rahata,Ridgeguard(Tori),Other,17-06-2022,125,175,7.5
+Maharashtra,Ahmednagar,Rahata,Spinach,Other,17-06-2022,0.25,0.5,0.0175
+Maharashtra,Ahmednagar,Rahata,Tomato,Other,17-06-2022,100,265,9.25
+Maharashtra,Ahmednagar,Rahuri(Vambori),Bengal Gram(Gram)(Whole),Other,17-06-2022,200,200,10
+Maharashtra,Ahmednagar,Rahuri(Vambori),Jowar(Sorghum),Other,17-06-2022,275.15,275.15,13.7575
+Maharashtra,Ahmednagar,Rahuri(Vambori),Soyabean,Other,17-06-2022,300,313.1,15.25
+Maharashtra,Ahmednagar,Rahuri(Vambori),Wheat,Other,17-06-2022,80,120,5
+Maharashtra,Ahmednagar,Sangamner,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,137.55,137.55,6.8775
+Maharashtra,Ahmednagar,Sangamner,Bengal Gram(Gram)(Whole),Other,17-06-2022,179.5,210.55,9.75
+Maharashtra,Ahmednagar,Sangamner,Castor Seed,Other,17-06-2022,280,280,14
+Maharashtra,Ahmednagar,Sangamner,Groundnut,Other,17-06-2022,180,200,9.5
+Maharashtra,Ahmednagar,Sangamner,Jowar(Sorghum),Other,17-06-2022,80,122.55,5.0625
+Maharashtra,Ahmednagar,Sangamner,Maize,Other,17-06-2022,105.05,105.05,5.2525
+Maharashtra,Ahmednagar,Sangamner,Onion,1st Sort,17-06-2022,70,85,3.875
+Maharashtra,Ahmednagar,Sangamner,Onion,2nd Sort,17-06-2022,50,70,3
+Maharashtra,Ahmednagar,Sangamner,Onion,Other,17-06-2022,25,50,1.875
+Maharashtra,Ahmednagar,Sangamner,Pomegranate,Other,17-06-2022,125,750,21.875
+Maharashtra,Ahmednagar,Sangamner,Soyabean,Other,17-06-2022,247.5,315,14.0625
+Maharashtra,Ahmednagar,Sangamner,Tomato,Other,17-06-2022,100,200,7.5
+Maharashtra,Ahmednagar,Sangamner,Wheat,Other,17-06-2022,105.05,125,5.75
+Maharashtra,Ahmednagar,Shevgaon,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,275,275,13.75
+Maharashtra,Ahmednagar,Shevgaon,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,102.5,105,5.125
+Maharashtra,Ahmednagar,Shevgaon,Bengal Gram(Gram)(Whole),Other,17-06-2022,210,210,10.5
+Maharashtra,Ahmednagar,Shevgaon,Soyabean,Yellow,17-06-2022,285,315,15.75
+Maharashtra,Ahmednagar,Shevgaon,Wheat,Maharashtra 2189,17-06-2022,101.5,115,5.075
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,270,280,14
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),Bajra(Pearl Millet/Cumbu),Other,17-06-2022,100,105,5.25
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),Bengal Gram(Gram)(Whole),Other,17-06-2022,220,220,11
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,17-06-2022,115,115,5.75
+Maharashtra,Ahmednagar,Shrirampur,Bhindi(Ladies Finger),Other,17-06-2022,75,110,4.625
+Maharashtra,Ahmednagar,Shrirampur,Bitter gourd,Other,17-06-2022,75,100,4.375
+Maharashtra,Ahmednagar,Shrirampur,Bottle gourd,Other,17-06-2022,25,45,1.75
+Maharashtra,Ahmednagar,Shrirampur,Brinjal,Other,17-06-2022,50,75,3.125
+Maharashtra,Ahmednagar,Shrirampur,Cabbage,Other,17-06-2022,20,40,1.5
+Maharashtra,Ahmednagar,Shrirampur,Cauliflower,Other,17-06-2022,25,50,1.875
+Maharashtra,Ahmednagar,Shrirampur,Chikoos(Sapota),Other,17-06-2022,40,75,2.875
+Maharashtra,Ahmednagar,Shrirampur,Chilly Capsicum,Other,17-06-2022,50,110,4
+Maharashtra,Ahmednagar,Shrirampur,Coriander(Leaves),Other,17-06-2022,0.5,1,0.0375
+Maharashtra,Ahmednagar,Shrirampur,Cucumbar(Kheera),Other,17-06-2022,40,60,2.5
+Maharashtra,Ahmednagar,Shrirampur,Drumstick,Other,17-06-2022,75,125,5
+Maharashtra,Ahmednagar,Shrirampur,Garlic,Other,17-06-2022,100,150,6.375
+Maharashtra,Ahmednagar,Shrirampur,Ginger(Green),Other,17-06-2022,50,75,3.125
+Maharashtra,Ahmednagar,Shrirampur,Green Chilli,Other,17-06-2022,175,225,10
+Maharashtra,Ahmednagar,Shrirampur,Guar,Other,17-06-2022,100,150,6.375
+Maharashtra,Ahmednagar,Shrirampur,Lime,Other,17-06-2022,75,125,5
+Maharashtra,Ahmednagar,Shrirampur,Mango,Other,17-06-2022,200,400,15
+Maharashtra,Ahmednagar,Shrirampur,Mango (Raw-Ripe),Other,17-06-2022,125,175,7.5
+Maharashtra,Ahmednagar,Shrirampur,Methi(Leaves),Other,17-06-2022,0.5,0.9,0.035
+Maharashtra,Ahmednagar,Shrirampur,Papaya,Other,17-06-2022,40,50,2.25
+Maharashtra,Ahmednagar,Shrirampur,Potato,Other,17-06-2022,75,90,4.125
+Maharashtra,Ahmednagar,Shrirampur,Ridgeguard(Tori),Other,17-06-2022,50,100,3.875
+Maharashtra,Ahmednagar,Shrirampur,Spinach,Other,17-06-2022,0.4,0.5,0.0225
+Maharashtra,Ahmednagar,Shrirampur,Tomato,Other,17-06-2022,150,200,8.875
+Maharashtra,Akola,Akola,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,255,323.75,14.5
+Maharashtra,Akola,Akola,Bengal Gram(Gram)(Whole),Kabul Small,17-06-2022,255,350,15.125
+Maharashtra,Akola,Akola,Bengal Gram(Gram)(Whole),Other,17-06-2022,200,230,10.75
+Maharashtra,Akola,Akola,Black Gram (Urd Beans)(Whole),Other,17-06-2022,160,260,10.5
+Maharashtra,Akola,Akola,Castor Seed,Other,17-06-2022,235,235,11.75
+Maharashtra,Akola,Akola,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,277.75,308.5,14.75
+Maharashtra,Akola,Akola,Jowar(Sorghum),Other,17-06-2022,67.5,84,3.825
+Maharashtra,Akola,Akola,Safflower,Other,17-06-2022,150,150,7.5
+Maharashtra,Akola,Akola,"Sesamum(Sesame,Gingelly,Til)",Other,17-06-2022,430,435,21.625
+Maharashtra,Akola,Akola,Soyabean,Yellow,17-06-2022,265,327.25,15.875
+Maharashtra,Akola,Akola,Wheat,Other,17-06-2022,95,107.5,5.2
+Maharashtra,Akola,Akola,Wheat,Sharbati,17-06-2022,130,152.5,7.375
+Maharashtra,Akola,Murtizapur,Bengal Gram(Gram)(Whole),Other,17-06-2022,207.5,223.5,10.7875
+Maharashtra,Akola,Murtizapur,Wheat,Other,17-06-2022,92.5,109,4.9875
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Beetroot,Other,17-06-2022,60,80,3.5
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Bhindi(Ladies Finger),Other,17-06-2022,180,210,9.75
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Bitter gourd,Other,17-06-2022,110,130,6
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Brinjal,Other,17-06-2022,70,90,4
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cabbage,Other,17-06-2022,75,100,4.375
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Carrot,Other,17-06-2022,80,100,4.5
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cauliflower,Other,17-06-2022,100,125,5.625
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Chilly Capsicum,Other,17-06-2022,140,160,7.5
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Coriander(Leaves),Other,17-06-2022,100,125,5.625
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cucumbar(Kheera),Other,17-06-2022,100,130,5.75
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Garlic,Other,17-06-2022,75,200,6.875
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Green),Other,17-06-2022,90,120,5.25
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Green Chilli,Other,17-06-2022,140,160,7.5
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Guar,Other,17-06-2022,225,250,11.875
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Methi(Leaves),Other,17-06-2022,200,250,11.25
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Onion,Local,17-06-2022,5,45,1.25
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Potato,Other,17-06-2022,60,90,3.75
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Pumpkin,Other,17-06-2022,50,70,3
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Spinach,Other,17-06-2022,50,60,2.75
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Tomato,Local,17-06-2022,175,200,9.375
+Maharashtra,Aurangabad,Aurangabad,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,225,275,12.5
+Maharashtra,Aurangabad,Aurangabad,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,92.5,99.05,4.7875
+Maharashtra,Aurangabad,Aurangabad,Bengal Gram(Gram)(Whole),Other,17-06-2022,200,205,10.125
+Maharashtra,Aurangabad,Aurangabad,Jowar(Sorghum),Other,17-06-2022,82.5,102.5,4.625
+Maharashtra,Aurangabad,Aurangabad,Soyabean,Other,17-06-2022,300,305,15.125
+Maharashtra,Aurangabad,Aurangabad,Wheat,Other,17-06-2022,97.5,117.5,5.375
+Maharashtra,Aurangabad,Sillod,Bengal Gram(Gram)(Whole),Other,17-06-2022,200,205,10.25
+Maharashtra,Aurangabad,Sillod,Maize,Yellow,17-06-2022,102.55,107.5,5.25
+Maharashtra,Aurangabad,Sillod,Wheat,Other,17-06-2022,100,105,5.125
+Maharashtra,Aurangabad,Vaijpur,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,255,275.5,13.3
+Maharashtra,Aurangabad,Vaijpur,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,95.5,105.5,5
+Maharashtra,Aurangabad,Vaijpur,Bengal Gram(Gram)(Whole),Other,17-06-2022,195.25,248.75,10.5
+Maharashtra,Aurangabad,Vaijpur,Corriander seed,Other,17-06-2022,205,205,10.25
+Maharashtra,Aurangabad,Vaijpur,Green Gram (Moong)(Whole),Other,17-06-2022,300,300,15
+Maharashtra,Aurangabad,Vaijpur,Groundnut,Other,17-06-2022,213.75,220,10.75
+Maharashtra,Aurangabad,Vaijpur,Jowar(Sorghum),Other,17-06-2022,79,86.5,4.0625
+Maharashtra,Aurangabad,Vaijpur,Maize,Other,17-06-2022,105,105,5.25
+Maharashtra,Aurangabad,Vaijpur,Safflower,Other,17-06-2022,269.25,269.25,13.4625
+Maharashtra,Aurangabad,Vaijpur,Soyabean,Other,17-06-2022,295,315.25,15.525
+Maharashtra,Aurangabad,Vaijpur,Tamarind Fruit,Other,17-06-2022,32.75,32.75,1.6375
+Maharashtra,Aurangabad,Vaijpur,Wheat,Other,17-06-2022,101.25,124.75,5.3
+Maharashtra,Beed,Beed,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,200.05,297.55,14.0675
+Maharashtra,Beed,Beed,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,90,194.95,5.7225
+Maharashtra,Beed,Beed,Bengal Gram(Gram)(Whole),Other,17-06-2022,185,213.05,10.2325
+Maharashtra,Beed,Beed,Black Gram (Urd Beans)(Whole),Other,17-06-2022,225,274.55,12.465
+Maharashtra,Beed,Beed,Jowar(Sorghum),Other,17-06-2022,65,125.55,4.775
+Maharashtra,Beed,Beed,Soyabean,Yellow,17-06-2022,260,322.5,15.27
+Maharashtra,Beed,Beed,Wheat,Other,17-06-2022,95.05,123.7,5.1425
+Maharashtra,Beed,Gevrai,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,255,300,14.375
+Maharashtra,Beed,Gevrai,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,100,116.45,5.4375
+Maharashtra,Beed,Gevrai,Bengal Gram(Gram)(Whole),Other,17-06-2022,190,217.5,10.5
+Maharashtra,Beed,Gevrai,Jowar(Sorghum),Red,17-06-2022,75,109.05,4.5
+Maharashtra,Beed,Gevrai,"Sesamum(Sesame,Gingelly,Til)",White,17-06-2022,475.05,475.05,23.7525
+Maharashtra,Beed,Gevrai,Soyabean,Yellow,17-06-2022,300,318.75,15.625
+Maharashtra,Beed,Gevrai,Wheat,Other,17-06-2022,92.5,135,5.75
+Maharashtra,Beed,Majalgaon,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,272.55,296.25,14.25
+Maharashtra,Beed,Majalgaon,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,95,115,5.5
+Maharashtra,Beed,Majalgaon,Bengal Gram(Gram)(Whole),Other,17-06-2022,182.5,214.25,10.375
+Maharashtra,Beed,Majalgaon,Jowar(Sorghum),Red,17-06-2022,80,118.5,5.25
+Maharashtra,Beed,Majalgaon,Soyabean,Other,17-06-2022,280.05,321.25,15.75
+Maharashtra,Beed,Majalgaon,Wheat,Other,17-06-2022,150.05,150.05,7.5025
+Maharashtra,Bhandara,Bhandara,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,250,250,12.5
+Maharashtra,Bhandara,Bhandara,Bengal Gram(Gram)(Whole),Other,17-06-2022,200,205,10.0625
+Maharashtra,Bhandara,Bhandara,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,250,275,13.25
+Maharashtra,Bhandara,Bhandara,Mustard,Other,17-06-2022,250,250,12.5
+Maharashtra,Bhandara,Bhandara,Rice,1009 Kar,17-06-2022,150,150,7.5
+Maharashtra,Bhandara,Bhandara,Rice,Other,17-06-2022,190,190,9.5
+Maharashtra,Bhandara,Lakhandur,Bengal Gram(Gram)(Whole),Other,17-06-2022,212.5,215,10.6875
+Maharashtra,Bhandara,Lakhandur,Wheat,Other,17-06-2022,92.5,93.75,4.6625
+Maharashtra,Buldhana,Chikali,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,267.5,305,14.3125
+Maharashtra,Buldhana,Chikali,Bengal Gram(Gram)(Whole),Average (Whole),17-06-2022,200.5,215,10.3875
+Maharashtra,Buldhana,Chikali,Black Gram (Urd Beans)(Whole),Other,17-06-2022,202.55,283.75,12.1575
+Maharashtra,Buldhana,Chikali,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,222.5,270,12.3125
+Maharashtra,Buldhana,Chikali,Jowar(Sorghum),Other,17-06-2022,57.5,72.5,3.25
+Maharashtra,Buldhana,Chikali,Maize,Deshi Red,17-06-2022,65,92.5,3.9375
+Maharashtra,Buldhana,Chikali,Soyabean,Yellow,17-06-2022,290,317.5,15.1875
+Maharashtra,Buldhana,Chikali,Wheat,Other,17-06-2022,81,103.55,4.6125
+Maharashtra,Buldhana,Deoulgaon Raja,Jowar(Sorghum),Other,17-06-2022,80,110,4.5
+Maharashtra,Buldhana,Deoulgaon Raja,Maize,Yellow,17-06-2022,90,90,4.5
+Maharashtra,Buldhana,Deoulgaon Raja,Soyabean,Yellow,17-06-2022,300,315,15.75
+Maharashtra,Buldhana,Deoulgaon Raja,Wheat,Other,17-06-2022,90,130,5
+Maharashtra,Buldhana,Mehekar,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,270,307.5,14.25
+Maharashtra,Buldhana,Mehekar,Bengal Gram(Gram)(Whole),Other,17-06-2022,195,215,10.25
+Maharashtra,Buldhana,Mehekar,Green Gram (Moong)(Whole),Other,17-06-2022,260,295,13.75
+Maharashtra,Buldhana,Mehekar,Soyabean,Other,17-06-2022,300,325,16
+Maharashtra,Buldhana,Mehekar,Wheat,Other,17-06-2022,115,140,6.5
+Maharashtra,Buldhana,Nandura,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,290,321.05,16.0525
+Maharashtra,Buldhana,Nandura,Bengal Gram(Gram)(Whole),Other,17-06-2022,195,215,10.75
+Maharashtra,Buldhana,Nandura,Jowar(Sorghum),Other,17-06-2022,65.05,77,3.85
+Maharashtra,Buldhana,Nandura,Maize,Other,17-06-2022,97.5,107.5,5.375
+Maharashtra,Buldhana,Nandura,Soyabean,Yellow,17-06-2022,295,323.75,16.1875
+Maharashtra,Buldhana,Nandura,Wheat,Other,17-06-2022,91.75,105,5.25
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Bhindi(Ladies Finger),Other,17-06-2022,50,100,3.75
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Bitter gourd,Other,17-06-2022,100,150,6.25
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Brinjal,Other,17-06-2022,50,100,3.75
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cabbage,Other,17-06-2022,40,75,2.5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cauliflower,Other,17-06-2022,40,75,2.5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Chilly Capsicum,Other,17-06-2022,100,150,6.25
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Coriander(Leaves),Other,17-06-2022,100,200,7.5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cucumbar(Kheera),Other,17-06-2022,40,75,2.5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Garlic,Other,17-06-2022,150,250,10
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Green),Other,17-06-2022,100,150,6.25
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Lime,Other,17-06-2022,200,300,12.5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Mango (Raw-Ripe),Other,17-06-2022,75,125,5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Onion,White,17-06-2022,65,75,3.5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Potato,Other,17-06-2022,65,75,3.5
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Tomato,Other,17-06-2022,100,150,6.25
+Maharashtra,Chandrapur,Chimur,Paddy(Dhan)(Common),Other,17-06-2022,117.5,122.5,6
+Maharashtra,Chandrapur,Gondpimpri,Paddy(Dhan)(Common),Other,17-06-2022,123.75,127.5,6.3125
+Maharashtra,Chandrapur,Mul,Paddy(Dhan)(Common),Other,17-06-2022,97.5,128.5,6
+Maharashtra,Chandrapur,Rajura,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,269.25,283.8,13.75
+Maharashtra,Chandrapur,Rajura,Bengal Gram(Gram)(Whole),Other,17-06-2022,213.75,216.5,10.7
+Maharashtra,Chandrapur,Savali,Paddy(Dhan)(Common),Other,17-06-2022,102.5,120,5.625
+Maharashtra,Dhule,Dondaicha,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,80,105.6,5
+Maharashtra,Dhule,Dondaicha,Bengal Gram(Gram)(Whole),Other,17-06-2022,180,300,14.2525
+Maharashtra,Dhule,Dondaicha,Green Gram (Moong)(Whole),Other,17-06-2022,285,285,14.25
+Maharashtra,Dhule,Dondaicha,Maize,Yellow,17-06-2022,95,107.5,5
+Maharashtra,Dhule,Dondaicha,Wheat,Other,17-06-2022,85.05,112.9,5.6025
+Maharashtra,Gadchiroli,Gandchiroli,Paddy(Dhan)(Common),Other,17-06-2022,120,120,6
+Maharashtra,Gondiya,Amgaon,Paddy(Dhan)(Common),Other,17-06-2022,70,73.6,3.59
+Maharashtra,Gondiya,Gondiya,Paddy(Dhan)(Common),Other,17-06-2022,75,80,3.875
+Maharashtra,Hingoli,Hingoli,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,290,316.25,15.155
+Maharashtra,Hingoli,Hingoli,Jowar(Sorghum),Other,17-06-2022,50,85,3.375
+Maharashtra,Hingoli,Hingoli,Soyabean,Other,17-06-2022,305,330,15.875
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,17-06-2022,310,365,16.875
+Maharashtra,Hingoli,Hingoli,Wheat,Sharbati,17-06-2022,77.5,121,4.9625
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,280,285,14.125
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Bengal Gram(Gram)(Whole),Other,17-06-2022,200,210,10.25
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Soyabean,Yellow,17-06-2022,300,310,15.25
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Wheat,Other,17-06-2022,90,95,4.625
+Maharashtra,Hingoli,Sengoan,Bengal Gram(Gram)(Whole),Other,17-06-2022,210,220,10.625
+Maharashtra,Hingoli,Sengoan,Groundnut,Other,17-06-2022,225,275,12.5
+Maharashtra,Jalana,Jalana,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,92.5,115.1,5.25
+Maharashtra,Jalana,Jalana,Bengal Gram(Gram)(Whole),Kabul Small,17-06-2022,350,350,17.5
+Maharashtra,Jalana,Jalana,Bengal Gram(Gram)(Whole),Other,17-06-2022,162.5,225,10.75
+Maharashtra,Jalana,Jalana,Black Gram (Urd Beans)(Whole),Other,17-06-2022,210,320,12.5
+Maharashtra,Jalana,Jalana,Green Gram (Moong)(Whole),Other,17-06-2022,255,280,14
+Maharashtra,Jalana,Jalana,Jowar(Sorghum),Other,17-06-2022,77.5,155.05,5.4375
+Maharashtra,Jalana,Jalana,Maize,Deshi Red,17-06-2022,100,115.75,5.5275
+Maharashtra,Jalana,Jalana,Mustard,Other,17-06-2022,282.5,282.5,14.125
+Maharashtra,Jalana,Jalana,Neem Seed,Other,17-06-2022,42.5,42.5,2.125
+Maharashtra,Jalana,Jalana,Safflower,Other,17-06-2022,225,225,11.25
+Maharashtra,Jalana,Jalana,Soyabean,Yellow,17-06-2022,250,320,15.75
+Maharashtra,Jalana,Jalana,Sunflower,Other,17-06-2022,215,280,12
+Maharashtra,Jalana,Jalana,Wheat,147 Average,17-06-2022,80,125,5.8125
+Maharashtra,Jalana,Partur,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,285,290,14.375
+Maharashtra,Jalana,Partur,Bengal Gram(Gram)(Whole),Other,17-06-2022,205,216.05,10.6875
+Maharashtra,Jalana,Partur,Jowar(Sorghum),Other,17-06-2022,71,96.3,4.75
+Maharashtra,Jalana,Partur,Soyabean,Yellow,17-06-2022,300,315,15.375
+Maharashtra,Jalana,Partur,Wheat,Maharashtra 2189,17-06-2022,96.3,107.55,5.03
+Maharashtra,Jalgaon,Amalner,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,90,111.3,5.565
+Maharashtra,Jalgaon,Amalner,Bengal Gram(Gram)(Whole),Average (Whole),17-06-2022,200,207.5,10.375
+Maharashtra,Jalgaon,Amalner,Corriander seed,Other,17-06-2022,550,575,28.75
+Maharashtra,Jalgaon,Amalner,Groundnut,Other,17-06-2022,235,283.55,14.1775
+Maharashtra,Jalgaon,Amalner,Maize,Deshi Red,17-06-2022,95,110,5.5
+Maharashtra,Jalgaon,Amalner,"Sesamum(Sesame,Gingelly,Til)",Other,17-06-2022,350,484.25,24.2125
+Maharashtra,Jalgaon,Amalner,Soyabean,Other,17-06-2022,254.95,264.95,13.2475
+Maharashtra,Jalgaon,Amalner,Sunflower,Other,17-06-2022,230,235,11.75
+Maharashtra,Jalgaon,Amalner,Wheat,Other,17-06-2022,98.05,104.25,5.2125
+Maharashtra,Jalgaon,Bhusaval,Bhindi(Ladies Finger),Other,17-06-2022,100,100,5
+Maharashtra,Jalgaon,Bhusaval,Bitter gourd,Other,17-06-2022,125,125,6.25
+Maharashtra,Jalgaon,Bhusaval,Brinjal,Other,17-06-2022,75,75,3.75
+Maharashtra,Jalgaon,Bhusaval,Cabbage,Other,17-06-2022,75,75,3.75
+Maharashtra,Jalgaon,Bhusaval,Carrot,Other,17-06-2022,75,75,3.75
+Maharashtra,Jalgaon,Bhusaval,Cauliflower,Other,17-06-2022,50,50,2.5
+Maharashtra,Jalgaon,Bhusaval,Coriander(Leaves),Other,17-06-2022,125,125,6.25
+Maharashtra,Jalgaon,Bhusaval,Cucumbar(Kheera),Other,17-06-2022,75,75,3.75
+Maharashtra,Jalgaon,Bhusaval,Green Chilli,Other,17-06-2022,200,200,10
+Maharashtra,Jalgaon,Bhusaval,Guar,Other,17-06-2022,250,250,12.5
+Maharashtra,Jalgaon,Bhusaval,Lime,Other,17-06-2022,165,165,8.25
+Maharashtra,Jalgaon,Bhusaval,Little gourd (Kundru),Other,17-06-2022,75,75,3.75
+Maharashtra,Jalgaon,Bhusaval,Mango (Raw-Ripe),Other,17-06-2022,100,100,5
+Maharashtra,Jalgaon,Bhusaval,Methi(Leaves),Other,17-06-2022,125,125,6.25
+Maharashtra,Jalgaon,Bhusaval,Onion,Red,17-06-2022,100,100,5
+Maharashtra,Jalgaon,Bhusaval,Potato,Other,17-06-2022,100,100,5
+Maharashtra,Jalgaon,Bhusaval,Spinach,Other,17-06-2022,50,50,2.5
+Maharashtra,Jalgaon,Bhusaval,Tomato,Other,17-06-2022,100,100,5
+Maharashtra,Jalgaon,Chalisgaon,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,217.5,250,12.125
+Maharashtra,Jalgaon,Chalisgaon,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,85.05,111.1,4.7775
+Maharashtra,Jalgaon,Chalisgaon,Bengal Gram(Gram)(Whole),Other,17-06-2022,195,202.5,9.87
+Maharashtra,Jalgaon,Chalisgaon,Groundnut,Other,17-06-2022,175,293.55,13.7025
+Maharashtra,Jalgaon,Chalisgaon,Jowar(Sorghum),Jowar ( White),17-06-2022,86.5,104.3,4.925
+Maharashtra,Jalgaon,Chalisgaon,Maize,Yellow,17-06-2022,100,111,5.35
+Maharashtra,Jalgaon,Chalisgaon,Onion,Other,17-06-2022,10,59.05,2.25
+Maharashtra,Jalgaon,Chalisgaon,Wheat,Maharashtra 2189,17-06-2022,95,97.25,4.825
+Maharashtra,Jalgaon,Chopada,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,112.35,112.35,5.6175
+Maharashtra,Jalgaon,Chopada,Bengal Gram(Gram)(Whole),Average (Whole),17-06-2022,200,205,10.25
+Maharashtra,Jalgaon,Chopada,Bengal Gram(Gram)(Whole),Other,17-06-2022,200,200,10
+Maharashtra,Jalgaon,Chopada,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,290,296.25,14.75
+Maharashtra,Jalgaon,Chopada,Groundnut,Other,17-06-2022,227.25,252.5,12.625
+Maharashtra,Jalgaon,Chopada,Wheat,Other,17-06-2022,97.5,97.6,4.88
+Maharashtra,Jalgaon,Jalgaon,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,270,280,14
+Maharashtra,Jalgaon,Jalgaon,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,105,105,5.25
+Maharashtra,Jalgaon,Jalgaon,Bengal Gram(Gram)(Whole),Average (Whole),17-06-2022,207.5,261.5,10.975
+Maharashtra,Jalgaon,Jalgaon,Bhindi(Ladies Finger),Other,17-06-2022,100,150,6.25
+Maharashtra,Jalgaon,Jalgaon,Bitter gourd,Other,17-06-2022,75,175,6.25
+Maharashtra,Jalgaon,Jalgaon,Black Gram (Urd Beans)(Whole),Other,17-06-2022,275,300,13.75
+Maharashtra,Jalgaon,Jalgaon,Brinjal,Other,17-06-2022,5,100,3.75
+Maharashtra,Jalgaon,Jalgaon,Cabbage,Other,17-06-2022,75,110,4.5
+Maharashtra,Jalgaon,Jalgaon,Carrot,Other,17-06-2022,125,175,7.5
+Maharashtra,Jalgaon,Jalgaon,Cauliflower,Other,17-06-2022,100,125,5.5
+Maharashtra,Jalgaon,Jalgaon,Coriander(Leaves),Other,17-06-2022,100,200,7.5
+Maharashtra,Jalgaon,Jalgaon,Cucumbar(Kheera),Other,17-06-2022,50,80,3
+Maharashtra,Jalgaon,Jalgaon,Drumstick,Other,17-06-2022,300,300,15
+Maharashtra,Jalgaon,Jalgaon,Ginger(Green),Other,17-06-2022,50,100,3.75
+Maharashtra,Jalgaon,Jalgaon,Green Gram (Moong)(Whole),Other,17-06-2022,309.75,309.75,15.4875
+Maharashtra,Jalgaon,Jalgaon,Guar,Other,17-06-2022,125,175,7.5
+Maharashtra,Jalgaon,Jalgaon,Jamun(Narale Hannu),Other,17-06-2022,250,600,20
+Maharashtra,Jalgaon,Jalgaon,Lime,Other,17-06-2022,100,150,6.25
+Maharashtra,Jalgaon,Jalgaon,Mango (Raw-Ripe),Other,17-06-2022,75,125,5
+Maharashtra,Jalgaon,Jalgaon,Methi(Leaves),Other,17-06-2022,125,250,10
+Maharashtra,Jalgaon,Jalgaon,Onion,Red,17-06-2022,15,60,1.9375
+Maharashtra,Jalgaon,Jalgaon,Papaya,Other,17-06-2022,40,40,2
+Maharashtra,Jalgaon,Jalgaon,Potato,Other,17-06-2022,50,90,3.75
+Maharashtra,Jalgaon,Jalgaon,Spinach,Other,17-06-2022,125,125,6.25
+Maharashtra,Jalgaon,Jalgaon,Tomato,Other,17-06-2022,75,200,7.5
+Maharashtra,Jalgaon,Jalgaon,Wheat,147 Average,17-06-2022,100,100,5
+Maharashtra,Jalgaon,Jamner,Cotton,Other,17-06-2022,550,575,27.5625
+Maharashtra,Jalgaon,Jamner,Maize,Deshi Red,17-06-2022,100,110,5.25
+Maharashtra,Kolhapur,Kolhapur,Onion,Other,17-06-2022,35,90,3
+Maharashtra,Latur,Aurad Shahajani,Bengal Gram(Gram)(Whole),Other,17-06-2022,212.5,230,11.0625
+Maharashtra,Latur,Aurad Shahajani,Safflower,Other,17-06-2022,246.45,252,12.46
+Maharashtra,Latur,Aurad Shahajani,Soyabean,Yellow,17-06-2022,325,329,16.35
+Maharashtra,Latur,Chakur,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,267.5,278.5,13.7025
+Maharashtra,Latur,Chakur,Bengal Gram(Gram)(Whole),Other,17-06-2022,185.25,209,10.2975
+Maharashtra,Latur,Chakur,Jowar(Sorghum),Other,17-06-2022,70.65,121.05,5.3775
+Maharashtra,Latur,Chakur,Soyabean,Yellow,17-06-2022,284.95,328.1,16.0525
+Maharashtra,Latur,Latur,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,250,316.25,15.5
+Maharashtra,Latur,Latur,Bengal Gram(Gram)(Whole),Other,17-06-2022,207.55,239.55,11.625
+Maharashtra,Latur,Latur,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,150,300,13.75
+Maharashtra,Latur,Latur,Soyabean,Yellow,17-06-2022,315,334,16.375
+Maharashtra,Latur,Udgir,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,311.25,323.55,15.87
+Maharashtra,Latur,Udgir,Bengal Gram(Gram)(Whole),Other,17-06-2022,227.5,236.05,11.5875
+Maharashtra,Latur,Udgir,Soyabean,Other,17-06-2022,328.5,332,16.5125
+Maharashtra,Mumbai,Fruit Market,Cherry,Other,17-06-2022,550,1050,40
+Maharashtra,Mumbai,Fruit Market,Chikoos(Sapota),Other,17-06-2022,150,275,10.625
+Maharashtra,Mumbai,Fruit Market,Guava,Other,17-06-2022,125,300,10.625
+Maharashtra,Mumbai,Fruit Market,Jamun(Narale Hannu),Other,17-06-2022,350,1100,36.25
+Maharashtra,Mumbai,Fruit Market,Karbuja(Musk Melon),Other,17-06-2022,100,150,6.25
+Maharashtra,Mumbai,Fruit Market,Litchi,Other,17-06-2022,350,750,27.5
+Maharashtra,Mumbai,Fruit Market,Mango,Hapus(Alphaso),17-06-2022,350,800,28.75
+Maharashtra,Mumbai,Fruit Market,Papaya,Other,17-06-2022,40,100,3.5
+Maharashtra,Mumbai,Fruit Market,Peach,Other,17-06-2022,500,700,30
+Maharashtra,Mumbai,Fruit Market,Pineapple,Other,17-06-2022,150,350,12.5
+Maharashtra,Mumbai,Fruit Market,Pomegranate,Other,17-06-2022,300,450,18.75
+Maharashtra,Mumbai,Fruit Market,Water Melon,Other,17-06-2022,35,52.5,2.1875
+Maharashtra,Mumbai,Mumbai,Almond(Badam),Other,17-06-2022,3000,3500,162.5
+Maharashtra,Mumbai,Mumbai,Arecanut(Betelnut/Supari),Other,17-06-2022,1750,2250,100
+Maharashtra,Mumbai,Mumbai,Arhar Dal(Tur Dal),Other,17-06-2022,400,525,23.75
+Maharashtra,Mumbai,Mumbai,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,110,135,6.25
+Maharashtra,Mumbai,Mumbai,Banana - Green,Other,17-06-2022,130,180,7.75
+Maharashtra,Mumbai,Mumbai,Bengal Gram Dal (Chana Dal),Other,17-06-2022,280,310,15
+Maharashtra,Mumbai,Mumbai,Bengal Gram(Gram)(Whole),Other,17-06-2022,250,270,13
+Maharashtra,Mumbai,Mumbai,Bhindi(Ladies Finger),Other,17-06-2022,200,250,11.25
+Maharashtra,Mumbai,Mumbai,Bitter gourd,Other,17-06-2022,130,170,7.5
+Maharashtra,Mumbai,Mumbai,Black Gram (Urd Beans)(Whole),Other,17-06-2022,300,325,15.5
+Maharashtra,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,17-06-2022,425,525,23.75
+Maharashtra,Mumbai,Mumbai,Black pepper,Other,17-06-2022,2000,3000,125
+Maharashtra,Mumbai,Mumbai,Brinjal,Other,17-06-2022,70,120,4.75
+Maharashtra,Mumbai,Mumbai,Cabbage,Other,17-06-2022,70,90,4
+Maharashtra,Mumbai,Mumbai,Cardamoms,Other,17-06-2022,3000,4000,175
+Maharashtra,Mumbai,Mumbai,Carrot,Other,17-06-2022,120,170,7.25
+Maharashtra,Mumbai,Mumbai,Cashewnuts,Other,17-06-2022,3000,4000,175
+Maharashtra,Mumbai,Mumbai,Cauliflower,Other,17-06-2022,60,80,3.5
+Maharashtra,Mumbai,Mumbai,Chili Red,Other,17-06-2022,1000,2000,75
+Maharashtra,Mumbai,Mumbai,Chilly Capsicum,Other,17-06-2022,170,200,9.25
+Maharashtra,Mumbai,Mumbai,Cinamon(Dalchini),Other,17-06-2022,750,1000,43.75
+Maharashtra,Mumbai,Mumbai,Coconut,Other,17-06-2022,52.5,105,3.9375
+Maharashtra,Mumbai,Mumbai,Coriander(Leaves),Other,17-06-2022,50,100,3.75
+Maharashtra,Mumbai,Mumbai,Corriander seed,Other,17-06-2022,500,700,30
+Maharashtra,Mumbai,Mumbai,Cowpea (Lobia/Karamani),Other,17-06-2022,325,500,21.25
+Maharashtra,Mumbai,Mumbai,Cucumbar(Kheera),Other,17-06-2022,100,160,6.5
+Maharashtra,Mumbai,Mumbai,Drumstick,Other,17-06-2022,200,300,12.5
+Maharashtra,Mumbai,Mumbai,Elephant Yam (Suran),Other,17-06-2022,90,130,5.5
+Maharashtra,Mumbai,Mumbai,French Beans (Frasbean),Other,17-06-2022,225,325,13.75
+Maharashtra,Mumbai,Mumbai,Ginger(Green),Other,17-06-2022,90,140,5.75
+Maharashtra,Mumbai,Mumbai,Green Chilli,Other,17-06-2022,210,260,11.75
+Maharashtra,Mumbai,Mumbai,Green Gram (Moong)(Whole),Other,17-06-2022,400,500,22.5
+Maharashtra,Mumbai,Mumbai,Green Gram Dal (Moong Dal),Other,17-06-2022,425,525,25
+Maharashtra,Mumbai,Mumbai,Green Peas,Other,17-06-2022,400,450,21.25
+Maharashtra,Mumbai,Mumbai,Ground Nut Seed,Other,17-06-2022,500,550,26.25
+Maharashtra,Mumbai,Mumbai,Guar,Other,17-06-2022,200,250,11.25
+Maharashtra,Mumbai,Mumbai,Gur(Jaggery),Other,17-06-2022,210,250,11.5
+Maharashtra,Mumbai,Mumbai,Jowar(Sorghum),Other,17-06-2022,120,200,8.75
+Maharashtra,Mumbai,Mumbai,Lentil (Masur)(Whole),Other,17-06-2022,385,395,19.5
+Maharashtra,Mumbai,Mumbai,Lime,Other,17-06-2022,250,400,16.25
+Maharashtra,Mumbai,Mumbai,Little gourd (Kundru),Other,17-06-2022,125,275,10.625
+Maharashtra,Mumbai,Mumbai,Maize,Other,17-06-2022,120,130,6.25
+Maharashtra,Mumbai,Mumbai,Mango (Raw-Ripe),Other,17-06-2022,175,200,9.5
+Maharashtra,Mumbai,Mumbai,Masur Dal,Other,17-06-2022,410,425,21
+Maharashtra,Mumbai,Mumbai,Methi Seeds,Methiseeds,17-06-2022,300,700,25
+Maharashtra,Mumbai,Mumbai,Methi(Leaves),Other,17-06-2022,40,70,2.75
+Maharashtra,Mumbai,Mumbai,Mint(Pudina),Other,17-06-2022,25,30,1.375
+Maharashtra,Mumbai,Mumbai,Mustard,Other,17-06-2022,300,400,17.5
+Maharashtra,Mumbai,Mumbai,Peas Wet,Other,17-06-2022,300,550,21.25
+Maharashtra,Mumbai,Mumbai,Pumpkin,Other,17-06-2022,100,140,6
+Maharashtra,Mumbai,Mumbai,Raddish,Other,17-06-2022,90,100,4.75
+Maharashtra,Mumbai,Mumbai,Ridgeguard(Tori),Other,17-06-2022,150,200,8.75
+Maharashtra,Mumbai,Mumbai,Sabu Dan,Other,17-06-2022,225,275,12.5
+Maharashtra,Mumbai,Mumbai,"Sesamum(Sesame,Gingelly,Til)",Other,17-06-2022,600,700,32.5
+Maharashtra,Mumbai,Mumbai,Snakeguard,Other,17-06-2022,120,140,6.5
+Maharashtra,Mumbai,Mumbai,Soanf,Other,17-06-2022,900,1100,50
+Maharashtra,Mumbai,Mumbai,Spinach,Other,17-06-2022,25,35,1.5
+Maharashtra,Mumbai,Mumbai,Sugar,Other,17-06-2022,169.5,178.1,8.69
+Maharashtra,Mumbai,Mumbai,Sweet Potato,Other,17-06-2022,110,150,6.5
+Maharashtra,Mumbai,Mumbai,Sweet Pumpkin,Other,17-06-2022,40,80,3
+Maharashtra,Mumbai,Mumbai,Tamarind Fruit,Other,17-06-2022,200,400,15
+Maharashtra,Mumbai,Mumbai,Tomato,Other,17-06-2022,200,250,11.25
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,17-06-2022,300,550,21.25
+Maharashtra,Mumbai,Mumbai,Wheat,Other,17-06-2022,110,200,7.75
+Maharashtra,Mumbai,Vashi New Mumbai,Onion,Other,17-06-2022,45,80,3.125
+Maharashtra,Mumbai,Vashi New Mumbai,Potato,Other,17-06-2022,75,95,4.25
+Maharashtra,Nagpur,Kalmeshwar,Bhindi(Ladies Finger),Other,17-06-2022,105.75,125,6.025
+Maharashtra,Nagpur,Kalmeshwar,Brinjal,Other,17-06-2022,72.5,100,4.65
+Maharashtra,Nagpur,Kalmeshwar,Cabbage,Other,17-06-2022,54,75,3.225
+Maharashtra,Nagpur,Kalmeshwar,Cauliflower,Other,17-06-2022,73.5,100,4.35
+Maharashtra,Nagpur,Kalmeshwar,Coriander(Leaves),Other,17-06-2022,202.75,250,11.3125
+Maharashtra,Nagpur,Kalmeshwar,Green Chilli,Other,17-06-2022,207.75,225,10.9125
+Maharashtra,Nagpur,Kalmeshwar,Spinach,Other,17-06-2022,79,100,4.6875
+Maharashtra,Nagpur,Kalmeshwar,Tomato,Other,17-06-2022,178.5,200,9.575
+Maharashtra,Nagpur,Kamthi,Bhindi(Ladies Finger),Other,17-06-2022,50,110,4.5
+Maharashtra,Nagpur,Kamthi,Bitter gourd,Other,17-06-2022,150,225,10
+Maharashtra,Nagpur,Kamthi,Bottle gourd,Other,17-06-2022,40,60,2.75
+Maharashtra,Nagpur,Kamthi,Brinjal,Other,17-06-2022,50,100,4.5
+Maharashtra,Nagpur,Kamthi,Carrot,Other,17-06-2022,150,225,10
+Maharashtra,Nagpur,Kamthi,Cauliflower,Other,17-06-2022,50,90,4
+Maharashtra,Nagpur,Kamthi,Coriander(Leaves),Other,17-06-2022,150,225,10
+Maharashtra,Nagpur,Kamthi,Cucumbar(Kheera),Other,17-06-2022,50,100,4.5
+Maharashtra,Nagpur,Kamthi,Garlic,Other,17-06-2022,150,225,10
+Maharashtra,Nagpur,Kamthi,Green Chilli,Other,17-06-2022,150,225,10
+Maharashtra,Nagpur,Kamthi,Guar,Other,17-06-2022,150,225,10
+Maharashtra,Nagpur,Kamthi,Mango,Other,17-06-2022,100,175,7.5
+Maharashtra,Nagpur,Kamthi,Methi(Leaves),Other,17-06-2022,150,225,10
+Maharashtra,Nagpur,Kamthi,Onion,Local,17-06-2022,30,70,3
+Maharashtra,Nagpur,Kamthi,Potato,Other,17-06-2022,50,100,4.5
+Maharashtra,Nagpur,Kamthi,Spinach,Other,17-06-2022,50,90,4
+Maharashtra,Nagpur,Kamthi,Tomato,Local,17-06-2022,150,200,9.5
+Maharashtra,Nagpur,Katol,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,190,302.05,13.125
+Maharashtra,Nagpur,Katol,Bengal Gram(Gram)(Whole),Other,17-06-2022,175,218.65,9.875
+Maharashtra,Nagpur,Katol,Groundnut,Other,17-06-2022,200,317.5,12.75
+Maharashtra,Nagpur,Katol,Soyabean,Yellow,17-06-2022,175,312.55,13.65
+Maharashtra,Nagpur,Katol,Wheat,Other,17-06-2022,90,98.55,4.75
+Maharashtra,Nagpur,Parshiwani,Spinach,Other,17-06-2022,60,75,3.5
+Maharashtra,Nagpur,Parshiwani,Tomato,Local,17-06-2022,150,225,10
+Maharashtra,Nanded,Bhokar,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,265,280.95,13.65
+Maharashtra,Nanded,Bhokar,Bengal Gram(Gram)(Whole),Other,17-06-2022,200.45,200.45,10.0225
+Maharashtra,Nanded,Bhokar,Green Gram (Moong)(Whole),Other,17-06-2022,150,150,7.5
+Maharashtra,Nanded,Bhokar,Groundnut,Other,17-06-2022,250.8,250.8,12.54
+Maharashtra,Nanded,Bhokar,Jowar(Sorghum),Other,17-06-2022,86.25,90.55,4.42
+Maharashtra,Nanded,Bhokar,"Sesamum(Sesame,Gingelly,Til)",White,17-06-2022,500,516.5,25.4125
+Maharashtra,Nanded,Bhokar,Soyabean,Yellow,17-06-2022,315.1,320.05,15.875
+Maharashtra,Nanded,Bhokar,Turmeric,Other,17-06-2022,262.55,301.5,14.1
+Maharashtra,Nanded,Bhokar,Wheat,Other,17-06-2022,90,90,4.5
+Maharashtra,Nanded,Himalyatnagar,Bengal Gram(Gram)(Whole),Other,17-06-2022,215,220,10.875
+Maharashtra,Nanded,Kinwat,Bengal Gram(Gram)(Whole),Other,17-06-2022,243.75,261.5,12.5
+Maharashtra,Nandurbar,Shahada,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,112,112,5.6
+Maharashtra,Nandurbar,Shahada,Bengal Gram(Gram)(Whole),Other,17-06-2022,201.25,362.6,17
+Maharashtra,Nandurbar,Shahada,Green Gram (Moong)(Whole),Other,17-06-2022,250,298.05,14.32
+Maharashtra,Nandurbar,Shahada,Jowar(Sorghum),Other,17-06-2022,100,115,5.4825
+Maharashtra,Nandurbar,Shahada,Maize,Other,17-06-2022,100.6,100.6,5.03
+Maharashtra,Nandurbar,Shahada,Wheat,Other,17-06-2022,100,114.4,5.4325
+Maharashtra,Nashik,Chandvad,Onion,Other,17-06-2022,30,74.95,2.375
+Maharashtra,Nashik,Devala,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,220.25,220.25,11.0125
+Maharashtra,Nashik,Devala,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,96.25,117,5.3375
+Maharashtra,Nashik,Devala,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,312.75,312.75,15.6375
+Maharashtra,Nashik,Devala,Jowar(Sorghum),Other,17-06-2022,142.25,142.25,7.1125
+Maharashtra,Nashik,Devala,Kulthi(Horse Gram),Other,17-06-2022,245.5,245.5,12.275
+Maharashtra,Nashik,Devala,Maize,Yellow,17-06-2022,85,111,5
+Maharashtra,Nashik,Devala,Onion,Other,17-06-2022,10,74.75,2.75
+Maharashtra,Nashik,Devala,Rice,Other,17-06-2022,78.75,79.5,3.95
+Maharashtra,Nashik,Devala,Wheat,Maharashtra 2189,17-06-2022,97.5,120,4.975
+Maharashtra,Nashik,Kalvan,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,110,110,5.5
+Maharashtra,Nashik,Kalvan,Onion,Other,17-06-2022,15,85,3.25
+Maharashtra,Nashik,Kalvan,Tamarind Fruit,Other,17-06-2022,40,40,2
+Maharashtra,Nashik,Kalvan,Wheat,Other,17-06-2022,105,105,5.25
+Maharashtra,Nashik,Lasalgaon,Onion,Other,17-06-2022,35.05,87.55,3.275
+Maharashtra,Nashik,Lasalgaon(Niphad),Black Gram (Urd Beans)(Whole),Other,17-06-2022,290,290,14.5
+Maharashtra,Nashik,Lasalgaon(Niphad),Maize,Other,17-06-2022,115.55,119.5,5.875
+Maharashtra,Nashik,Lasalgaon(Niphad),Onion,Other,17-06-2022,25,68.55,3
+Maharashtra,Nashik,Lasalgaon(Niphad),Soyabean,Other,17-06-2022,282.8,324,16.075
+Maharashtra,Nashik,Lasalgaon(Niphad),Wheat,Maharashtra 2189,17-06-2022,100.55,102.5,5.0275
+Maharashtra,Nashik,Manmad,Onion,Other,17-06-2022,10,73.05,2.625
+Maharashtra,Nashik,Nampur,Onion,Other,17-06-2022,5,76.25,3.25
+Maharashtra,Nashik,Nandgaon,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,175,248.55,11.25
+Maharashtra,Nashik,Nandgaon,Bajra(Pearl Millet/Cumbu),Other,17-06-2022,100,145.55,5.7525
+Maharashtra,Nashik,Nandgaon,Bengal Gram(Gram)(Whole),Other,17-06-2022,185,234.55,10.6275
+Maharashtra,Nashik,Nandgaon,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,100,265,12
+Maharashtra,Nashik,Nandgaon,Groundnut,Other,17-06-2022,305,318.75,15.4975
+Maharashtra,Nashik,Nandgaon,Soyabean,Yellow,17-06-2022,255,312.8,15
+Maharashtra,Nashik,Nandgaon,Wheat,Maharashtra 2189,17-06-2022,102.1,138.95,5.6275
+Maharashtra,Nashik,Nasik,Apple,Other,17-06-2022,700,1100,45
+Maharashtra,Nashik,Nasik,Banana,Khandesh,17-06-2022,42.5,75,3.125
+Maharashtra,Nashik,Nasik,Bhindi(Ladies Finger),Other,17-06-2022,87.5,177,6.25
+Maharashtra,Nashik,Nasik,Bitter gourd,Other,17-06-2022,145.75,250,9.375
+Maharashtra,Nashik,Nasik,Bottle gourd,Other,17-06-2022,33.25,93.5,2.8375
+Maharashtra,Nashik,Nasik,Brinjal,Other,17-06-2022,75,212.5,7.5
+Maharashtra,Nashik,Nasik,Cabbage,Other,17-06-2022,37.5,75,2.9125
+Maharashtra,Nashik,Nasik,Cauliflower,Other,17-06-2022,35.75,85.75,2.85
+Maharashtra,Nashik,Nasik,Chikoos(Sapota),Other,17-06-2022,60,125,5
+Maharashtra,Nashik,Nasik,Chilly Capsicum,Other,17-06-2022,218.75,350,13.6
+Maharashtra,Nashik,Nasik,Cucumbar(Kheera),Other,17-06-2022,37.5,116.25,3.75
+Maharashtra,Nashik,Nasik,Guar,Other,17-06-2022,80,215,7.25
+Maharashtra,Nashik,Nasik,Lime,Other,17-06-2022,47.5,112.5,4.6875
+Maharashtra,Nashik,Nasik,Mango,Totapuri,17-06-2022,100,200,8.75
+Maharashtra,Nashik,Nasik,Orange,Other,17-06-2022,650,900,35
+Maharashtra,Nashik,Nasik,Pear(Marasebu),Other,17-06-2022,400,800,30
+Maharashtra,Nashik,Nasik,Pomegranate,Other,17-06-2022,45,625,22.5
+Maharashtra,Nashik,Nasik,Ridgeguard(Tori),Other,17-06-2022,208.25,333.25,14.5875
+Maharashtra,Nashik,Nasik,Tender Coconut,Other,17-06-2022,115,160,7
+Maharashtra,Nashik,Nasik,Water Melon,Other,17-06-2022,30,60,2.25
+Maharashtra,Nashik,Pimpalgaon,Onion,Other,17-06-2022,20,89.75,3.5
+Maharashtra,Nashik,Pimpalgaon Baswant(Saykheda),Onion,Other,17-06-2022,17.5,66.25,2.8025
+Maharashtra,Nashik,Umrane,Onion,Other,17-06-2022,40,81.05,3.375
+Maharashtra,Nashik,Yeola,Onion,Other,17-06-2022,7.5,77.3,2.625
+Maharashtra,Osmanabad,Umarga,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,275.05,275.05,13.7525
+Maharashtra,Osmanabad,Umarga,Bengal Gram(Gram)(Whole),Other,17-06-2022,175,208.05,10
+Maharashtra,Osmanabad,Umarga,Black Gram (Urd Beans)(Whole),Other,17-06-2022,175.5,200,9.5
+Maharashtra,Osmanabad,Umarga,Jowar(Sorghum),Jowar ( White),17-06-2022,100,117.05,5.25
+Maharashtra,Osmanabad,Umarga,Soyabean,Yellow,17-06-2022,315,315,15.75
+Maharashtra,Osmanabad,Umarga,Wheat,Kalyan,17-06-2022,80.5,119.5,5.25
+Maharashtra,Parbhani,Gangakhed,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,280,285,14
+Maharashtra,Parbhani,Gangakhed,Groundnut,Other,17-06-2022,280,285,14
+Maharashtra,Parbhani,Gangakhed,Jowar(Sorghum),Other,17-06-2022,110,125,6
+Maharashtra,Parbhani,Gangakhed,Soyabean,Yellow,17-06-2022,330,335,16.5
+Maharashtra,Parbhani,Gangakhed,Wheat,Other,17-06-2022,100,110,5.25
+Maharashtra,Parbhani,Jintur,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,285,290,14.25
+Maharashtra,Parbhani,Jintur,Bengal Gram(Gram)(Whole),Other,17-06-2022,210,210,10.5
+Maharashtra,Parbhani,Jintur,Groundnut,Other,17-06-2022,287.5,301.25,14.75
+Maharashtra,Parbhani,Jintur,Jowar(Sorghum),Other,17-06-2022,78.75,95,3.9375
+Maharashtra,Parbhani,Jintur,Soyabean,Yellow,17-06-2022,285.05,314.5,15.5
+Maharashtra,Parbhani,Jintur,Turmeric,Other,17-06-2022,220,320,14.9375
+Maharashtra,Parbhani,Palam,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,282.5,282.5,14.125
+Maharashtra,Parbhani,Palam,Soyabean,Yellow,17-06-2022,332.5,332.5,16.625
+Maharashtra,Pune,Indapur,Onion,Red,17-06-2022,10,80,1.5
+Maharashtra,Pune,Indapur,Pomegranate,Other,17-06-2022,60,625,9.25
+Maharashtra,Pune,Khed(Chakan),Bhindi(Ladies Finger),Other,17-06-2022,175,225,10
+Maharashtra,Pune,Khed(Chakan),Bitter gourd,Other,17-06-2022,125,175,7.5
+Maharashtra,Pune,Khed(Chakan),Bottle gourd,Other,17-06-2022,50,100,3.75
+Maharashtra,Pune,Khed(Chakan),Brinjal,Other,17-06-2022,75,125,5
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,17-06-2022,50,90,3.5
+Maharashtra,Pune,Khed(Chakan),Carrot,Other,17-06-2022,100,150,6.25
+Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,17-06-2022,50,90,3.5
+Maharashtra,Pune,Khed(Chakan),Chilly Capsicum,Other,17-06-2022,175,225,10
+Maharashtra,Pune,Khed(Chakan),Coriander(Leaves),Other,17-06-2022,25,50,1.875
+Maharashtra,Pune,Khed(Chakan),Cucumbar(Kheera),Other,17-06-2022,50,100,3.75
+Maharashtra,Pune,Khed(Chakan),Drumstick,Other,17-06-2022,200,250,11.25
+Maharashtra,Pune,Khed(Chakan),Green Chilli,Other,17-06-2022,200,300,12.5
+Maharashtra,Pune,Khed(Chakan),Guar,Other,17-06-2022,200,250,11.25
+Maharashtra,Pune,Khed(Chakan),Methi(Leaves),Other,17-06-2022,50,75,3.125
+Maharashtra,Pune,Khed(Chakan),Onion,Other,17-06-2022,50,75,3.125
+Maharashtra,Pune,Khed(Chakan),Peas Wet,Other,17-06-2022,500,600,27.5
+Maharashtra,Pune,Khed(Chakan),Potato,Other,17-06-2022,75,100,4.375
+Maharashtra,Pune,Khed(Chakan),Ridgeguard(Tori),Other,17-06-2022,150,200,8.75
+Maharashtra,Pune,Khed(Chakan),Spinach,Other,17-06-2022,20,30,1.25
+Maharashtra,Pune,Khed(Chakan),Sweet Potato,Other,17-06-2022,150,200,8.75
+Maharashtra,Pune,Khed(Chakan),Tomato,Other,17-06-2022,150,225,8.75
+Maharashtra,Pune,Pune,Amla(Nelli Kai),Other,17-06-2022,100,150,6.25
+Maharashtra,Pune,Pune,Apple,Other,17-06-2022,200,700,22.5
+Maharashtra,Pune,Pune,Beans,Other,17-06-2022,250,400,16.25
+Maharashtra,Pune,Pune,Beetroot,Other,17-06-2022,50,80,3.25
+Maharashtra,Pune,Pune,Bhindi(Ladies Finger),Other,17-06-2022,75,200,6.875
+Maharashtra,Pune,Pune,Bitter gourd,Other,17-06-2022,100,150,6.25
+Maharashtra,Pune,Pune,Bottle gourd,Other,17-06-2022,50,175,5.625
+Maharashtra,Pune,Pune,Brinjal,Other,17-06-2022,50,125,4.375
+Maharashtra,Pune,Pune,Cabbage,Other,17-06-2022,50,100,3.75
+Maharashtra,Pune,Pune,Carrot,Other,17-06-2022,50,150,5
+Maharashtra,Pune,Pune,Cauliflower,Other,17-06-2022,40,80,3
+Maharashtra,Pune,Pune,Chikoos(Sapota),Other,17-06-2022,50,125,4.5
+Maharashtra,Pune,Pune,Chilly Capsicum,Other,17-06-2022,100,250,8.75
+Maharashtra,Pune,Pune,Coriander(Leaves),Other,17-06-2022,0.25,0.6,0.02
+Maharashtra,Pune,Pune,Cucumbar(Kheera),Other,17-06-2022,50,110,4
+Maharashtra,Pune,Pune,Drumstick,Other,17-06-2022,200,300,12.5
+Maharashtra,Pune,Pune,Elephant Yam (Suran),Other,17-06-2022,75,150,5.625
+Maharashtra,Pune,Pune,Garlic,Other,17-06-2022,60,275,8.375
+Maharashtra,Pune,Pune,Ginger(Green),Other,17-06-2022,30,107.5,3.4375
+Maharashtra,Pune,Pune,Grapes,Other,17-06-2022,150,350,12.5
+Maharashtra,Pune,Pune,Green Chilli,Other,17-06-2022,100,250,8.75
+Maharashtra,Pune,Pune,Guar,Other,17-06-2022,100,250,8.75
+Maharashtra,Pune,Pune,Guava,Other,17-06-2022,50,125,4.5
+Maharashtra,Pune,Pune,Jack Fruit,Other,17-06-2022,50,100,3.75
+Maharashtra,Pune,Pune,Jamun(Narale Hannu),Other,17-06-2022,250,600,21.25
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,17-06-2022,40,120,4.75
+Maharashtra,Pune,Pune,Lime,Other,17-06-2022,30,200,5.75
+Maharashtra,Pune,Pune,Little gourd (Kundru),Other,17-06-2022,75,150,5.625
+Maharashtra,Pune,Pune,Mango (Raw-Ripe),Other,17-06-2022,50,125,4.375
+Maharashtra,Pune,Pune,Methi(Leaves),Other,17-06-2022,0.3,0.65,0.0225
+Maharashtra,Pune,Pune,Mint(Pudina),Other,17-06-2022,0.1,0.3,0.01
+Maharashtra,Pune,Pune,Onion,Local,17-06-2022,30,80,2.75
+Maharashtra,Pune,Pune,Onion Green,Other,17-06-2022,0.5,1,0.0375
+Maharashtra,Pune,Pune,Orange,Other,17-06-2022,70,450,13
+Maharashtra,Pune,Pune,Papaya,Other,17-06-2022,25,70,2.5
+Maharashtra,Pune,Pune,Pear(Marasebu),Other,17-06-2022,300,550,21.25
+Maharashtra,Pune,Pune,Peas Wet,Other,17-06-2022,250,500,18.75
+Maharashtra,Pune,Pune,Plum,Other,17-06-2022,150,200,8.75
+Maharashtra,Pune,Pune,Pointed gourd (Parval),Other,17-06-2022,100,150,6.25
+Maharashtra,Pune,Pune,Potato,Other,17-06-2022,75,95,4.25
+Maharashtra,Pune,Pune,Pumpkin,Other,17-06-2022,50,100,3.75
+Maharashtra,Pune,Pune,Raddish,Other,17-06-2022,0.5,1,0.0375
+Maharashtra,Pune,Pune,Rajgir,Other,17-06-2022,0.2,0.35,0.0125
+Maharashtra,Pune,Pune,Ridgeguard(Tori),Other,17-06-2022,100,200,7.5
+Maharashtra,Pune,Pune,Seetapal,Other,17-06-2022,200,250,11.25
+Maharashtra,Pune,Pune,Snakeguard,Other,17-06-2022,100,125,5.625
+Maharashtra,Pune,Pune,Spinach,Other,17-06-2022,0.25,0.4,0.015
+Maharashtra,Pune,Pune,Sweet Potato,Other,17-06-2022,75,150,5.625
+Maharashtra,Pune,Pune,Sweet Pumpkin,Other,17-06-2022,30,60,2.25
+Maharashtra,Pune,Pune,Tender Coconut,Other,17-06-2022,25,55,2
+Maharashtra,Pune,Pune,Tomato,Local,17-06-2022,75,225,7.5
+Maharashtra,Pune,Pune,Water Melon,Other,17-06-2022,20,50,1.75
+Maharashtra,Pune,Pune(Khadiki),Bhindi(Ladies Finger),Other,17-06-2022,100,150,6.25
+Maharashtra,Pune,Pune(Khadiki),Bottle gourd,Other,17-06-2022,50,60,2.75
+Maharashtra,Pune,Pune(Khadiki),Brinjal,Other,17-06-2022,75,100,4.375
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,17-06-2022,40,60,2.5
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,17-06-2022,65,75,3.5
+Maharashtra,Pune,Pune(Khadiki),Coriander(Leaves),Other,17-06-2022,0.4,0.5,0.0225
+Maharashtra,Pune,Pune(Khadiki),Cucumbar(Kheera),Other,17-06-2022,50,65,2.875
+Maharashtra,Pune,Pune(Khadiki),Garlic,Other,17-06-2022,150,150,7.5
+Maharashtra,Pune,Pune(Khadiki),Green Chilli,Other,17-06-2022,150,150,7.5
+Maharashtra,Pune,Pune(Khadiki),Guar,Other,17-06-2022,200,200,10
+Maharashtra,Pune,Pune(Khadiki),Mango (Raw-Ripe),Other,17-06-2022,75,75,3.75
+Maharashtra,Pune,Pune(Khadiki),Methi(Leaves),Other,17-06-2022,0.45,0.5,0.025
+Maharashtra,Pune,Pune(Khadiki),Onion,Local,17-06-2022,50,60,2.75
+Maharashtra,Pune,Pune(Khadiki),Potato,Other,17-06-2022,70,75,3.625
+Maharashtra,Pune,Pune(Khadiki),Spinach,Other,17-06-2022,0.25,0.25,0.0125
+Maharashtra,Pune,Pune(Khadiki),Tomato,Local,17-06-2022,100,160,6.5
+Maharashtra,Pune,Pune(Moshi),Amla(Nelli Kai),Other,17-06-2022,150,150,7.5
+Maharashtra,Pune,Pune(Moshi),Apple,Other,17-06-2022,300,550,21.25
+Maharashtra,Pune,Pune(Moshi),Banana,Other,17-06-2022,100,250,8.75
+Maharashtra,Pune,Pune(Moshi),Beans,Other,17-06-2022,150,275,10.625
+Maharashtra,Pune,Pune(Moshi),Beetroot,Other,17-06-2022,75,100,4.375
+Maharashtra,Pune,Pune(Moshi),Bhindi(Ladies Finger),Other,17-06-2022,150,175,8.125
+Maharashtra,Pune,Pune(Moshi),Bitter gourd,Other,17-06-2022,150,200,8.75
+Maharashtra,Pune,Pune(Moshi),Bottle gourd,Other,17-06-2022,50,75,3.125
+Maharashtra,Pune,Pune(Moshi),Brinjal,Other,17-06-2022,60,100,4
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,17-06-2022,50,75,3.125
+Maharashtra,Pune,Pune(Moshi),Carrot,Other,17-06-2022,150,150,7.5
+Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,17-06-2022,50,100,3.75
+Maharashtra,Pune,Pune(Moshi),Chikoos(Sapota),Other,17-06-2022,250,250,12.5
+Maharashtra,Pune,Pune(Moshi),Chilly Capsicum,Other,17-06-2022,150,200,8.75
+Maharashtra,Pune,Pune(Moshi),Coriander(Leaves),Other,17-06-2022,0.4,0.5,0.0225
+Maharashtra,Pune,Pune(Moshi),Cucumbar(Kheera),Other,17-06-2022,50,75,3.125
+Maharashtra,Pune,Pune(Moshi),Drumstick,Other,17-06-2022,200,250,11.25
+Maharashtra,Pune,Pune(Moshi),Garlic,Other,17-06-2022,50,175,5.625
+Maharashtra,Pune,Pune(Moshi),Ginger(Green),Other,17-06-2022,50,75,3.125
+Maharashtra,Pune,Pune(Moshi),Green Chilli,Other,17-06-2022,17.5,250,10.625
+Maharashtra,Pune,Pune(Moshi),Guar,Other,17-06-2022,175,200,9.375
+Maharashtra,Pune,Pune(Moshi),Lime,Other,17-06-2022,150,250,10
+Maharashtra,Pune,Pune(Moshi),Mango,Other,17-06-2022,150,350,12.5
+Maharashtra,Pune,Pune(Moshi),Mango (Raw-Ripe),Other,17-06-2022,100,150,6.25
+Maharashtra,Pune,Pune(Moshi),Methi(Leaves),Other,17-06-2022,0.5,0.7,0.03
+Maharashtra,Pune,Pune(Moshi),Mint(Pudina),Other,17-06-2022,0.1,0.15,0.0075
+Maharashtra,Pune,Pune(Moshi),Onion,Local,17-06-2022,20,60,2
+Maharashtra,Pune,Pune(Moshi),Onion Green,Other,17-06-2022,0.6,0.75,0.035
+Maharashtra,Pune,Pune(Moshi),Orange,Other,17-06-2022,350,350,17.5
+Maharashtra,Pune,Pune(Moshi),Papaya,Other,17-06-2022,50,75,3.125
+Maharashtra,Pune,Pune(Moshi),Peas Wet,Other,17-06-2022,450,500,23.75
+Maharashtra,Pune,Pune(Moshi),Pointed gourd (Parval),Other,17-06-2022,150,150,7.5
+Maharashtra,Pune,Pune(Moshi),Pomegranate,Other,17-06-2022,300,300,15
+Maharashtra,Pune,Pune(Moshi),Potato,Other,17-06-2022,50,80,3.25
+Maharashtra,Pune,Pune(Moshi),Raddish,Other,17-06-2022,0.4,0.5,0.0225
+Maharashtra,Pune,Pune(Moshi),Ridgeguard(Tori),Other,17-06-2022,175,200,9.375
+Maharashtra,Pune,Pune(Moshi),Spinach,Other,17-06-2022,0.25,0.3,0.015
+Maharashtra,Pune,Pune(Moshi),Tomato,Local,17-06-2022,100,175,6.875
+Maharashtra,Pune,Pune(Moshi),Water Melon,Other,17-06-2022,20,35,1.375
+Maharashtra,Pune,Pune(Pimpri),Bhindi(Ladies Finger),Other,17-06-2022,175,225,10
+Maharashtra,Pune,Pune(Pimpri),Bottle gourd,Other,17-06-2022,75,75,3.75
+Maharashtra,Pune,Pune(Pimpri),Brinjal,Other,17-06-2022,75,110,4.625
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,17-06-2022,60,60,3
+Maharashtra,Pune,Pune(Pimpri),Cauliflower,Other,17-06-2022,90,90,4.5
+Maharashtra,Pune,Pune(Pimpri),Coriander(Leaves),Other,17-06-2022,0.35,0.5,0.0225
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,17-06-2022,100,125,5.625
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,17-06-2022,0.3,0.35,0.0175
+Maharashtra,Pune,Pune(Pimpri),Mango (Raw-Ripe),Other,17-06-2022,100,100,5
+Maharashtra,Pune,Pune(Pimpri),Mint(Pudina),Other,17-06-2022,0.15,0.2,0.01
+Maharashtra,Pune,Pune(Pimpri),Onion,Local,17-06-2022,30,70,2.5
+Maharashtra,Pune,Pune(Pimpri),Tomato,Local,17-06-2022,125,200,8.125
+Maharashtra,Raigad,Alibagh,Rice,Other,17-06-2022,100,125,5.5
+Maharashtra,Raigad,Murud,Rice,Other,17-06-2022,100,125,5.5
+Maharashtra,Raigad,Panvel,Beans,Other,17-06-2022,240,280,13
+Maharashtra,Raigad,Panvel,Bitter gourd,Other,17-06-2022,170,180,8.75
+Maharashtra,Raigad,Panvel,Bottle gourd,Other,17-06-2022,100,110,5.25
+Maharashtra,Raigad,Panvel,Cabbage,Other,17-06-2022,70,75,3.625
+Maharashtra,Raigad,Panvel,Carrot,Other,17-06-2022,120,130,6.25
+Maharashtra,Raigad,Panvel,Cucumbar(Kheera),Other,17-06-2022,90,100,4.75
+Maharashtra,Raigad,Panvel,Guar,Other,17-06-2022,190,220,10.25
+Maharashtra,Raigad,Panvel,Ridgeguard(Tori),Other,17-06-2022,190,220,10.25
+Maharashtra,Raigad,Panvel,Tomato,Other,17-06-2022,190,220,10.25
+Maharashtra,Sangli,Aatpadi,Pomegranate,Other,17-06-2022,50,605,17.5
+Maharashtra,Sangli,Palus,Bitter gourd,Other,17-06-2022,125,150,6.75
+Maharashtra,Sangli,Palus,Brinjal,Other,17-06-2022,200,250,11.25
+Maharashtra,Sangli,Palus,Cabbage,Other,17-06-2022,100,110,5.25
+Maharashtra,Sangli,Palus,Ginger(Green),Other,17-06-2022,100,125,5.5
+Maharashtra,Sangli,Palus,Green Chilli,Other,17-06-2022,150,200,8.75
+Maharashtra,Sangli,Palus,Tomato,Other,17-06-2022,150,175,8
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Apple,Other,17-06-2022,200,550,18.75
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Chikoos(Sapota),Other,17-06-2022,50,150,5
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Mango,Hapus(Alphaso),17-06-2022,50,250,7.5
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Onion,Local,17-06-2022,15,85,2.5
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Pineapple,Other,17-06-2022,40,130,4.25
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Potato,Other,17-06-2022,70,100,4.25
+Maharashtra,Satara,Patan,Bhindi(Ladies Finger),Other,17-06-2022,100,125,5.625
+Maharashtra,Satara,Patan,Bitter gourd,Other,17-06-2022,125,175,7.5
+Maharashtra,Satara,Patan,Brinjal,Other,17-06-2022,125,175,7.5
+Maharashtra,Satara,Patan,Coriander(Leaves),Other,17-06-2022,0.45,0.55,0.025
+Maharashtra,Satara,Patan,Ginger(Green),Other,17-06-2022,55,65,3
+Maharashtra,Satara,Patan,Green Chilli,Other,17-06-2022,200,250,11.25
+Maharashtra,Satara,Patan,Tomato,Other,17-06-2022,175,275,11.25
+Maharashtra,Satara,Vai,Brinjal,Other,17-06-2022,150,175,8.375
+Maharashtra,Satara,Vai,Cabbage,Other,17-06-2022,75,100,5
+Maharashtra,Satara,Vai,Cauliflower,Other,17-06-2022,125,150,6.75
+Maharashtra,Satara,Vai,Ginger(Green),Other,17-06-2022,90,110,5
+Maharashtra,Satara,Vai,Green Chilli,Other,17-06-2022,225,300,14.625
+Maharashtra,Satara,Vai,Ridgeguard(Tori),Other,17-06-2022,150,200,9.375
+Maharashtra,Satara,Vai,Tomato,Local,17-06-2022,100,200,9.625
+Maharashtra,Sholapur,Dudhani,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,293.75,313,15.25
+Maharashtra,Sholapur,Dudhani,Bengal Gram(Gram)(Whole),Other,17-06-2022,240,247,12.25
+Maharashtra,Sholapur,Mangal Wedha,Bhindi(Ladies Finger),Other,17-06-2022,30,115,5
+Maharashtra,Sholapur,Mangal Wedha,Bitter gourd,Other,17-06-2022,110,250,8.75
+Maharashtra,Sholapur,Mangal Wedha,Brinjal,Other,17-06-2022,30,280,7.5
+Maharashtra,Sholapur,Mangal Wedha,Coriander(Leaves),Other,17-06-2022,0.2,0.75,0.0175
+Maharashtra,Sholapur,Mangal Wedha,Cucumbar(Kheera),Other,17-06-2022,25,205,3.75
+Maharashtra,Sholapur,Mangal Wedha,Green Chilli,Other,17-06-2022,150,200,8.75
+Maharashtra,Sholapur,Mangal Wedha,Onion,Other,17-06-2022,10,75,2.25
+Maharashtra,Sholapur,Mangal Wedha,Ridgeguard(Tori),Other,17-06-2022,40,185,7.25
+Maharashtra,Sholapur,Mangal Wedha,Tomato,Other,17-06-2022,25,170,7.75
+Maharashtra,Sholapur,Pandharpur,Banana,Other,17-06-2022,35,68.8,3.0625
+Maharashtra,Sholapur,Pandharpur,Pomegranate,Other,17-06-2022,50,650,15
+Maharashtra,Sholapur,Sangola,Pomegranate,Other,17-06-2022,125,555,16.25
+Maharashtra,Sholapur,Solapur,Apple,Other,17-06-2022,50,115,3.25
+Maharashtra,Sholapur,Solapur,Beans,Other,17-06-2022,175,200,8.75
+Maharashtra,Sholapur,Solapur,Bitter gourd,Other,17-06-2022,100,210,7.5
+Maharashtra,Sholapur,Solapur,Brinjal,Other,17-06-2022,25,150,3.75
+Maharashtra,Sholapur,Solapur,Cabbage,Other,17-06-2022,50,100,3.75
+Maharashtra,Sholapur,Solapur,Cauliflower,Other,17-06-2022,32,80,2.6
+Maharashtra,Sholapur,Solapur,Chikoos(Sapota),Other,17-06-2022,55,200,5
+Maharashtra,Sholapur,Solapur,Chilly Capsicum,Other,17-06-2022,75,160,6.25
+Maharashtra,Sholapur,Solapur,Coriander(Leaves),Other,17-06-2022,15,40,1.25
+Maharashtra,Sholapur,Solapur,Cucumbar(Kheera),Other,17-06-2022,25,175,3.75
+Maharashtra,Sholapur,Solapur,Green Chilli,Other,17-06-2022,140,225,7.5
+Maharashtra,Sholapur,Solapur,Guava,Other,17-06-2022,25,75,2.25
+Maharashtra,Sholapur,Solapur,Gur(Jaggery),Yellow,17-06-2022,130,165,8.1275
+Maharashtra,Sholapur,Solapur,Jowar(Sorghum),Other,17-06-2022,100.25,113.75,5.0875
+Maharashtra,Sholapur,Solapur,Lime,Other,17-06-2022,10,185,7.25
+Maharashtra,Sholapur,Solapur,Methi(Leaves),Other,17-06-2022,25,55,2
+Maharashtra,Sholapur,Solapur,Onion,Red,17-06-2022,5,110,2.5
+Maharashtra,Sholapur,Solapur,Papaya,Other,17-06-2022,25,25,1.25
+Maharashtra,Sholapur,Solapur,Pomegranate,Other,17-06-2022,50,755,13.5
+Maharashtra,Sholapur,Solapur,Rajgir,Other,17-06-2022,30,30,1.5
+Maharashtra,Sholapur,Solapur,Rice,Other,17-06-2022,139.75,301.5,9.5
+Maharashtra,Sholapur,Solapur,Ridgeguard(Tori),Other,17-06-2022,50,200,5
+Maharashtra,Sholapur,Solapur,Soyabean,Other,17-06-2022,319.75,328.5,16.025
+Maharashtra,Sholapur,Solapur,Spinach,Other,17-06-2022,10,15,0.625
+Maharashtra,Sholapur,Solapur,Tomato,Other,17-06-2022,20,200,5
+Maharashtra,Sholapur,Solapur,Water Melon,Other,17-06-2022,25,40,1.5
+Maharashtra,Sholapur,Solapur,Wheat,Sharbati,17-06-2022,115,167.5,6.6125
+Maharashtra,Thane,Murbad,Bhindi(Ladies Finger),Other,17-06-2022,75,125,5
+Maharashtra,Thane,Palghar,Rice,1009 Kar,17-06-2022,179.6,179.6,8.98
+Maharashtra,Vashim,Karanja,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,270,313.75,14.725
+Maharashtra,Vashim,Karanja,Bengal Gram(Gram)(Whole),Other,17-06-2022,201,221.5,10.525
+Maharashtra,Vashim,Karanja,Green Gram (Moong)(Whole),Other,17-06-2022,265,294.75,14
+Maharashtra,Vashim,Karanja,Groundnut,Other,17-06-2022,273.5,333,14.775
+Maharashtra,Vashim,Karanja,"Sesamum(Sesame,Gingelly,Til)",Other,17-06-2022,499.5,505,24.975
+Maharashtra,Vashim,Karanja,Soyabean,Other,17-06-2022,301.25,337,15.875
+Maharashtra,Vashim,Karanja,Wheat,Other,17-06-2022,99.75,110,5.275
+Maharashtra,Vashim,Risod,Bengal Gram(Gram)(Whole),Other,17-06-2022,205,220,10.625
+Maharashtra,Vashim,Risod,Black Gram (Urd Beans)(Whole),Other,17-06-2022,300,324.5,15.625
+Maharashtra,Vashim,Risod,Green Gram (Moong)(Whole),Other,17-06-2022,282.5,312.25,14.875
+Maharashtra,Vashim,Risod,Soyabean,Other,17-06-2022,290,327.75,15.5
+Maharashtra,Vashim,Washim(Ansing),Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,257.5,292.5,13.75
+Maharashtra,Vashim,Washim(Ansing),Green Gram (Moong)(Whole),Other,17-06-2022,257.5,283.75,13.75
+Maharashtra,Vashim,Washim(Ansing),Soyabean,Yellow,17-06-2022,297.5,327.5,15.5
+Maharashtra,Yavatmal,Pandhakawada,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,300,310,15.375
+Maharashtra,Yavatmal,Yeotmal,Arhar (Tur/Red Gram)(Whole),Other,17-06-2022,278,312,14.75
+Maharashtra,Yavatmal,Yeotmal,Bengal Gram(Gram)(Whole),Other,17-06-2022,96.25,100,4.905
+Maharashtra,Yavatmal,Yeotmal,Green Gram (Moong)(Whole),Green (Whole),17-06-2022,220,220,11
+Maharashtra,Yavatmal,Yeotmal,Groundnut,Other,17-06-2022,289.75,308.25,14.9625
+Maharashtra,Yavatmal,Yeotmal,"Sesamum(Sesame,Gingelly,Til)",Gajjar,17-06-2022,500,500,25
+Maharashtra,Yavatmal,Yeotmal,Soyabean,Yellow,17-06-2022,300,324.5,15.6125

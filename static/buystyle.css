@@ -1,0 +1,353 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+body {
+    background-color: #B4E197;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    /* background-color: rgb(255, 255, 255); */
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* background-image: url(../static/paper.png); */
+    background-color: #0b8507;
+}
+
+.namelogo {
+    display: flex;
+    flex-direction: row;
+}
+
+.image {
+    padding: 2.5px 0px 2.5px 2.5px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+
+.nav-name {
+    margin-left: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    /* border-bottom: 3px outset rgb(33, 255, 12);
+    border-radius: 50%; */
+    color: white;
+}
+
+.namebox {
+    margin-bottom: 2px;
+    /* border: 2px solid red; */
+}
+
+.list>* {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-end; */
+    justify-content: space-between;
+    width: 55vw;
+    padding: 10px 27px 0px 0px;
+    font-size: 17px;
+}
+
+.nav-item:hover {
+    /* font-size: 20px; */
+    transition-duration: 0.2s;
+    /* box-shadow: inset 160px 0 0 0 #a4d654; */
+    border-bottom: 2px solid #ffffff;
+    /* background-color: #435f84; */
+    /* border-radius: 5px; */
+}
+
+.google>* {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    border: solid 2px #fff;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    /* color: rgb(207, 205, 205); */
+    color: #fff
+}
+
+
+/* .carousel>* {
+    margin-top: 2px;
+    /* height: 25%; 
+} */
+
+.eco-image {
+    height: 10%;
+    width: 100%;
+}
+
+.ecommerce {
+    display: grid;
+    column-gap: 5px;
+    row-gap: 30px;
+    margin-top: 10px;
+    padding: 10px;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 40px;
+}
+
+
+/* .item-row {
+    display: flex;
+    flex-direction: row;
+    width: vw;
+    height: 100%;
+    /* border: 2px solid red; 
+    justify-content: space-between;
+    padding: 10px 50px 10px 50px;
+     margin-bottom: 1000px; 
+} */
+
+.item {
+    display: flex;
+    flex-direction: column;
+    border-radius: 15%;
+    height: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* background-color: #B4E197; */
+    background-color: #e3eddc;
+}
+
+.productimg>* {
+    padding: 2.5px 2.5px 2.5px 2.5px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.line {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0.5px solid black;
+    width: 100%;
+    height: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.button-buy {
+    padding: 5px 12px 5px 12px;
+    border-radius: 12px;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #0b8507;
+    color: white;
+    border: 2px solid #e3eddc;
+    letter-spacing: 1.5px;
+    box-shadow: inset 0 0 0 0 white;
+    transition: ease-out 0.2s;
+    outline: none;
+}
+
+.item:hover {
+    /* border: 2px solid rgb(0, 0, 0); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.55), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button-buy:hover {
+    color: green;
+    box-shadow: inset 0 150px 0 0 white;
+    border: 2px solid #B4E197;
+    transition: all;
+    transition-duration: 0.6s;
+}
+
+.quantity {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 65%;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.plus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding: 9px;
+    color: green;
+    background-color: #fff;
+    border: 2px solid #B4E197;
+}
+
+.val>* {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2px;
+    background-color: #B4E197;
+}
+
+.quantity .val {
+    text-decoration: none;
+}
+
+.minus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding: 9px;
+    color: green;
+    background-color: #fff;
+    border: 2px solid #B4E197;
+}
+
+.plus:hover {
+    background-color: rgb(75, 164, 75);
+    color: white;
+    border: 2px solid #e3eddc;
+    transition: all;
+    transition-duration: 0.25s;
+}
+
+.minus:hover {
+    background-color: rgb(226, 99, 99);
+    color: white;
+    border: 2px solid #e3eddc;
+    transition: all;
+    transition-duration: 0.25s;
+}
+
+
+/*GOOGLE API*/
+
+.goog-te-banner-frame {
+    display: none;
+    /* Removes Google banner at the top */
+}
+
+#goog-gt-tt {
+    /* removes box with original text when translated text is hovered */
+    display: none !important;
+    visibility: hidden !important;
+    color: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none !important;
+    font-family: arial;
+    font-size: 0px !important;
+    width: 0px !important;
+    padding: none;
+    margin-bottom: 10px;
+    color: #fff !important
+}
+
+select.goog-te-combo option {
+    background: var(--light) !important;
+    /* makes dropdown dark OR add your own */
+}
+
+body {
+    position: unset !important;
+    /* Removes space created by Google banner at the top */
+}
+
+.goog-logo-link,
+.goog-logo-link:link,
+.goog-logo-link:visited,
+.goog-logo-link:hover,
+.goog-logo-link:active {
+    display: none;
+    color: #fff !important
+    /* Removes Google logo below language switcher dropdown */
+}
+
+.goog-te-gadget {
+    font-size: 0px !important;
+    color: white !important;
+    /* Removes "Powered by" text below language switcher dropdown */
+}
+
+.goog-te-combo,
+.goog-te-banner *,
+.goog-te-ftab *,
+.goog-te-menu *,
+.goog-te-menu2 *,
+.goog-te-balloon * {
+    font-family: var(--body-font) !important;
+    font-size: 17px !important;
+    /* changes font of language switcher dropdown to match site OR add your own */
+    background-color: #0b8507;
+    /* makes text in dropdown white */
+}
+
+select.goog-te-combo {
+    padding-right: 1.2rem !important;
+    /* OPTIONAL reduce padding obscuring language name */
+    padding: .2rem .8rem;
+    /* makes lang switcher less thick */
+}
+
+select.goog-te-combo option {
+    background: var(--dark) !important;
+    /* makes dropdown dark OR add your own */
+}
+
+@media all and (max-width:37.4375em) {
+    #google_element {
+        padding: 2rem .4rem;
+        /* adds padding when screen becomes smaller and footer items are stacked */
+    }
+}
+
+
+/*** Removing styling that appears when hovering over translated text ***/
+
+#goog-gt-tt>div {
+    /* removes box with original text when translated text is hovered */
+    visibility: hidden;
+    display: none;
+}
+
+#goog-gt-tt {
+    /* removes box with original text when translated text is hovered */
+    display: none !important;
+    visibility: hidden !important;
+    color: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none !important;
+    font-family: arial;
+    font-size: 0px !important;
+    width: 0px !important;
+    padding: none;
+}
+
+.goog-text-highlight {
+    /* removes text styling when translated text is hovered */
+    background-color: #0b8507;
+    box-shadow: none !important;
+}

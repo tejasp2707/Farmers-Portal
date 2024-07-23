@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% load static %}
+    <!-- <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="icon" type="image/png" href="./logo1.PNG">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+
+    <title> HOME | AgroPlus</title>
+</head>
+
+
+<body>
+    <nav>
+        <div class="namelogo">
+            <img class="image" src="../static/logo1.PNG">
+            <div class="namebox">
+                <span class="nav-name">Agroplus</span>
+                <span class="h">|&nbsp;&nbsp; </span>
+                <a class="h"><i class="fa fa-user-circle-o" style="font-size:30px; color:white"></i></a>
+                <span class="hellomsg">&nbsp;Hi, <strong>{{request.user}}</strong></span>
+            </div>
+        </div>
+        <div class="list">
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a href="../" style="text-decoration:none;color:white"><i class="fas fa-home"></i>&nbsp; Home&nbsp;&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./farmercorner" style="text-decoration:none;color:white"><i class="fa fa-info-circle" aria-hidden="true"></i>&nbsp; Farmer's Corner&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./Buy" style="text-decoration:none;color:white"><i class="fa fa-shopping-cart" ></i>&nbsp; Buy&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./Sell" style="text-decoration:none;color:white"><i class="fa fa-inr" aria-hidden="true"></i>&nbsp; Sell&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./Croprate" style="text-decoration:none;color:white"><i class="fa fa-bar-chart" aria-hidden="true"></i>&nbsp; Crop Rates&nbsp;&nbsp;</i></a>
+                </li>
+                <li class="nav-item">
+                    <a href="./logout" style="text-decoration:none;color:white"> LOGOUT &nbsp; <i class="fas fa-sign-out-alt"></i></a>
+                </li>
+                <li class="google" style="color:#0b8507">
+                    <div id="google_element" style="margin-bottom: 10px;"></div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- GOOGLE API -->
+    <script src="https://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
+
+    <script>
+        function loadGoogleTranslate() {
+            new google.translate.TranslateElement({
+                pageLanguage: "en",
+                includedLanguages: "mr,hi,en",
+            }, "google_element");
+        }
+    </script>
+    <!-- GOOGLE API ENDS-->
+    <section class="text-gray-400 body-font ">
+        <div class="back">
+
+            <section class="text-gray-600 body-font">
+                <div class="mainimg" style="display:fles;justify-content:center;align-items:center">
+                    <img class="mainimg" alt="..." src="/static/agroplus.PNG">
+                </div>
+                <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
+                    <div class="text-center lg:w-2/3 w-full">
+                        <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">ABOUT</h1>
+                        <p class="mb-8 leading-relaxed">In India, agriculture is the largest dependent sector. Farmers are dependent on vendors for selling their produce. The vendor who is striving for his profits negotiates with the farmer regarding the price. The needy farmer sacrificing
+                            their profits generally accepts the price told by the vendor. Due to financial conditions and the unavailability of vendors, the farmer will sell their products at low prices demanded by the market. Our main aim is to help
+                            farmers by using the new technology and making their business more efficient and also it is used to speed up their marketing process. It will remove the connection with intermediate vendors that helps the farmers to save some
+                            money. Agri e-commerce also increases farmers' access to new markets and adds transparency to the value chain. It enables farmers to bypass several intermediaries, resulting in higher income for the farmers, reduced wastage,
+                            and the potential to deliver fresher produce to customers.</p>
+                    </div>
+                </div>
+        </div>
+        </div>
+
+        </section>
+        <style>
+            .footer {
+                left: 0;
+                bottom: 0;
+                width: 100%;
+                background-color: #0b8507;
+                color: white;
+                text-align: center;
+                height: 50px;
+            }
+        </style>
+        </head>
+        <div class="footer">
+            <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;Contact Us : agroplus@gmail.com<br>&copy; 2022
+            </p>
+
+        </div>
+        </div>
+</body>
+
+</html>
